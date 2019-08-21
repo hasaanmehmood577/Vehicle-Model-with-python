@@ -13,4 +13,8 @@ pip install numpy
 - One Track Model [in progress]
 - Two Track Model [in progress]
 
+## LaTeX Documentation
 
+Take a look at:
+
+https://www.overleaf.com/read/ksjxrffxkyyr
